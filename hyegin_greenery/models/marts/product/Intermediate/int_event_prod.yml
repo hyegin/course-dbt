@@ -1,0 +1,6 @@
+version: 2
+
+models:
+
+- name: int_event_prod
+  description: product and event tables combined
