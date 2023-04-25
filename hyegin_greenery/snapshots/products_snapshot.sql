@@ -11,3 +11,5 @@
 }}
 
 select * from {{source('postgres','products')}}
+
+{% endsnapshot %}
