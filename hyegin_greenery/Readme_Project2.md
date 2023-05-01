@@ -47,3 +47,5 @@ Part 2. Tests
 - Added test for not null and unique for dimension table
 - I would check by looking at last updated time and compare today's date to make sure it's showing freshest data.
 
+Part 3. Snapshot
+I did not see any changes here - I may have missed something
