@@ -12,3 +12,5 @@ models:
         - not_null
       
 
+- name: dim_prod_convert
+  description: conversion by product

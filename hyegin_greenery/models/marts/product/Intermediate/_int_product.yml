@@ -1,0 +1,11 @@
+version: 2
+
+models:
+  - name: int_product_session
+    description: sessions by type
+
+  - name: int_prod_view
+    description: views by product
+
+  - name: int_prod_checkout
+    description: by checkout
