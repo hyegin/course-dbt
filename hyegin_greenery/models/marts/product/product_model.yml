@@ -1,8 +1,8 @@
 version: 2
 
 models:
-
 - name: fact_page_views
   description: daily page views of product level
 
-
+- name: fact_product_funnel
+  description: product funnel fact table
