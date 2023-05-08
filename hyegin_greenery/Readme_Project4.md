@@ -1,6 +1,6 @@
 Project 4
 
-Using this workbook to find out answers: https://app.sigmacomputing.com/corise-dbt/workbook/week-4-project-6yRdDHVV5fka37mvf9DDwz/edit?:nodeId=qa7ncuLaeG
+Using this workbook to find out answers: https://app.sigmacomputing.com/corise-dbt/workbook/workbook-6yRdDHVV5fka37mvf9DDwz?:link_source=share
 
 Part 1. dbt Snapshots
 Which products had their inventory change from week 3 to week 4? 
@@ -25,7 +25,7 @@ Pothos
 
 Part 2. Modeling challenge
 Please also see:
-https://app.sigmacomputing.com/corise-dbt/workbook/week-4-project-6yRdDHVV5fka37mvf9DDwz/edit?:nodeId=qa7ncuLaeG
+https://app.sigmacomputing.com/corise-dbt/workbook/workbook-6yRdDHVV5fka37mvf9DDwz?:link_source=share
 
 How are our users moving through the product funnel?
 Using this table: DEV_DB.DBT_HYEGIN.FACT_PRODUCT_FUNNEL
